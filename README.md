@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I am a dancer who needs no drinks to go wild in marriages!**
 
+- Check out my blog on hashnode: https://discordapp.com/channels/1046824652699344977/1046840734529105950/1092154857626009663 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
