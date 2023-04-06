@@ -42,7 +42,7 @@
 <a href="https://www.hackerearth.com/@shreyash293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shreyash293" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nipanikars2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nipanikars2003" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/nishra_1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="nishra_1234" height="30" width="40" /></a>
-<a href="https://discord.gg/nishra_014#1279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nishra_014#1279" height="30" width="40" /></a>
+<a href="https://discord.gg/923997977092169818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nishra_014#1279" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
